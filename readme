@@ -1,0 +1,59 @@
+DENTAL CLINIC APP
+
+This application was developed as an integrative project for the Digital House backend 1 course. 
+
+
+Technologies:
+
+
+    Java
+    Spring Boot
+    Spring MVC
+    Spring Data JPA
+    Hibernate
+    H2 Database
+    Swagger
+
+PLEASE IN FRONT TRY JUST WITH DENTIST
+
+It manages patients, dentists, and appointments using CRUD methods.
+
+Tasks for dentists:
+
+    List: Allows you to view a list of all dentists registered in the system.
+    Delete: Allows you to delete a dentist from the database.
+    Search by ID: Allows you to search for a specific dentist by their ID.
+    Update: Allows you to update the information of an existing dentist.
+    Register: Allows you to create a new dentist in the system.
+
+Tasks for dentists:
+
+    List: Allows you to view a list of all dentists registered in the system.
+    Delete: Allows you to delete a dentist from the database.
+    Search by ID: Allows you to search for a specific dentist by their ID.
+    Update: Allows you to update the information of an existing dentist.
+    Register: Allows you to create a new dentist in the system.
+
+Tasks for appointments:
+
+    List: Allows you to view a list of all appointments registered in the system.
+    Delete: Allows you to delete an appointment from the database.
+    Search by ID: Allows you to search for a specific appointment by its ID.
+    Update: Allows you to update the information of an existing appointment.
+    Register: Allows you to create a new appointment in the system.
+
+In general, these tasks can be performed through a web interface or an API. The web interface allows users to perform these tasks visually, while the API allows developers to integrate the application with other systems.
+
+Here are some specific examples of how these tasks could be implemented:
+
+List dentists: The application could provide a web page that shows a list of all registered dentists, along with their name, surname, address, phone number, and email.
+
+Delete dentist: The application could provide a button that allows users to delete a dentist. When the button is clicked, the application should prompt the user to confirm the deletion.
+
+Search dentist by ID: The application could provide a form that allows users to search for a dentist by their ID. When the user enters the ID, the application should return the information for the corresponding dentist.
+
+Update dentist: The application could provide a form that allows users to update the information for an existing dentist. The form should include the fields that can be updated, such as the name, surname, address, phone number, and email.
+
+Register dentist: The application could provide a form that allows users to create a new dentist. The form should include the fields necessary to create a dentist, such as the name, surname, address, phone number, and email.
+
+The tasks for dentists and appointments can be implemented in a similar way.
